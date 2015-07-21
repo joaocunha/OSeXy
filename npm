@@ -1,7 +1,14 @@
 a11y
+autoprefixer
 bower
+clean-css
+csso
 gulp
 jscs
 jshint
+lodash-cli
+npm
+npm-check-updates
+sc5-styleguide
 sitespeed.io
-stylus
+uglify-js
