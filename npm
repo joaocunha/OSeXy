@@ -9,6 +9,7 @@ jshint
 lodash-cli
 npm
 npm-check-updates
+pakmanager
 sc5-styleguide
 sitespeed.io
 uglify-js
